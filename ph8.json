@@ -1,6 +1,6 @@
 {
   "name": "PH8",
   "package": "com.shovonapples.ph8",
-  "masking": true,
+  "masking": false,
   "webview_url": "https://ph8.biz/"
 }
