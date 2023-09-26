@@ -1,0 +1,6 @@
+{
+  "name": "k6k",
+  "package": "com.shovonapples.k6k",
+  "masking": false,
+  "webview_url": "http://hexgl.bkcore.com/play/"
+}
